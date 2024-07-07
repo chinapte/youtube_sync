@@ -3,121 +3,121 @@
         "zh": "教育",
         "channel": ["@TED", "@Netflix", "@CrashCourse", "@KhanAcademy", "@Vsauce"],
         "playlist": [
-            "PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa",
-            "PL58AE15658B1D61E3",  # Crash Course: World History
-            "PLoAgl7iYVpNAN9sXORv5zYaaql_taSAad"  # Khan Academy: Algebra Basics
+            {"id": "PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa", "info": ""},
+            {"id": "PL58AE15658B1D61E3", "info": "Crash Course: World History"},
+            {"id": "PLoAgl7iYVpNAN9sXORv5zYaaql_taSAad", "info": "Khan Academy: Algebra Basics"}
         ]
     },
     "entertainment": {
         "zh": "娱乐",
         "channel": ["@TheEllenShow", "@LateNightSeth", "@JimmyKimmelLive"],
         "playlist": [
-            "PLPZxhM-UYFtq1QMQewl3-K_FfS5pXUO0N",  # Ellen Show Clips
-            "PL7JfnOKiT5zo5GWpTyKp-kldDJz4BhQz7"  # Late Night with Seth Meyers
+            {"id": "PLPZxhM-UYFtq1QMQewl3-K_FfS5pXUO0N", "info": "Ellen Show Clips"},
+            {"id": "PL7JfnOKiT5zo5GWpTyKp-kldDJz4BhQz7", "info": "Late Night with Seth Meyers"}
         ]
     },
     "music": {
         "zh": "音乐",
         "channel": ["@Vevo", "@Billboard", "@MTV"],
         "playlist": [
-            "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI",  # Top Music Videos
-            "PLyNBB-6vHkm8s_ZuG7Rd_p0rn0A6bGr68"  # Billboard Hot 100
+            {"id": "PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI", "info": "Top Music Videos"},
+            {"id": "PLyNBB-6vHkm8s_ZuG7Rd_p0rn0A6bGr68", "info": "Billboard Hot 100"}
         ]
     },
     "sports": {
         "zh": "体育",
         "channel": ["@ESPN", "@NBA", "@NFL"],
         "playlist": [
-            "PLuqPONzMopW5HkE_nFJmDPdq0Yo4eTUxy",  # ESPN Highlights
-            "PL8bYahfNq3m8pP4N8EYwTud_9wC0G5DqL"  # NBA Top 10 Plays
+            {"id": "PLuqPONzMopW5HkE_nFJmDPdq0Yo4eTUxy", "info": "ESPN Highlights"},
+            {"id": "PL8bYahfNq3m8pP4N8EYwTud_9wC0G5DqL", "info": "NBA Top 10 Plays"}
         ]
     },
     "news": {
         "zh": "新闻",
         "channel": ["@BBCNews", "@CNN", "@Reuters"],
         "playlist": [
-            "PLfNW7JT1eXYzzjUt5gjebSPNhP5mlSZyG",  # BBC News Top Stories
-            "PLagGmJ3r8hHzwV3NV8-Zd8avH9dJv74FS"  # CNN Breaking News
+            {"id": "PLfNW7JT1eXYzzjUt5gjebSPNhP5mlSZyG", "info": "BBC News Top Stories"},
+            {"id": "PLagGmJ3r8hHzwV3NV8-Zd8avH9dJv74FS", "info": "CNN Breaking News"}
         ]
     },
     "gaming": {
         "zh": "游戏",
         "channel": ["@PewDiePie", "@Markiplier", "@GameGrumps"],
         "playlist": [
-            "PLo5eZsGVq-tkboJZTROO7AMvNrEebtb_U",  # PewDiePie Minecraft Series
-            "PL3tRBEVW0hiB7H-syqkTJfNQNTuLOKJyx"  # Markiplier Horror Games
+            {"id": "PLo5eZsGVq-tkboJZTROO7AMvNrEebtb_U", "info": "PewDiePie Minecraft Series"},
+            {"id": "PL3tRBEVW0hiB7H-syqkTJfNQNTuLOKJyx", "info": "Markiplier Horror Games"}
         ]
     },
     "people_and_blogs": {
         "zh": "人物与博客",
         "channel": ["@CaseyNeistat", "@ShaneDawsonTV", "@DavidDobrik"],
         "playlist": [
-            "PLeRH5H8Fq3Luy3rdxFo6p60vdyRAcn7T2",  # Casey Neistat Vlogs
-            "PLFsztFq-htCO4srggSh0PY-LW16zY_d44"  # David Dobrik Vlogs
+            {"id": "PLeRH5H8Fq3Luy3rdxFo6p60vdyRAcn7T2", "info": "Casey Neistat Vlogs"},
+            {"id": "PLFsztFq-htCO4srggSh0PY-LW16zY_d44", "info": "David Dobrik Vlogs"}
         ]
     },
     "comedy": {
         "zh": "喜剧",
         "channel": ["@ComedyCentral", "@FunnyOrDie", "@CollegeHumor"],
         "playlist": [
-            "PLD7nPL1U-R5oAMHByPCiF1jpkOk40gr_5",  # Comedy Central Stand-Up
-            "PLOcVXF3rAyLBvP-B1_S83uKpaFjx7kfgF"  # Funny Or Die Sketches
+            {"id": "PLD7nPL1U-R5oAMHByPCiF1jpkOk40gr_5", "info": "Comedy Central Stand-Up"},
+            {"id": "PLOcVXF3rAyLBvP-B1_S83uKpaFjx7kfgF", "info": "Funny Or Die Sketches"}
         ]
     },
     "film_and_animation": {
         "zh": "电影与动画",
         "channel": ["@Pixar", "@Disney", "@StudioGhibli"],
         "playlist": [
-            "PLCAoPJZsZbqVb2dHwQ93pO_y_HX8H6qME",  # Pixar Shorts
-            "PLScC8g4bqD4tvlZNDN0OjR2hL3q6YZg_U"  # Disney Animation
+            {"id": "PLCAoPJZsZbqVb2dHwQ93pO_y_HX8H6qME", "info": "Pixar Shorts"},
+            {"id": "PLScC8g4bqD4tvlZNDN0OjR2hL3q6YZg_U", "info": "Disney Animation"}
         ]
     },
     "howto_and_style": {
         "zh": "教程与风格",
         "channel": ["@Tasty", "@5MinuteCrafts", "@NikkieTutorials"],
         "playlist": [
-            "PL8zglt-LDl-mBl6-QGHjBjhA_E44ZIGBG",  # Tasty Recipes
-            "PLSV5lnTn6MhJtvlDAcAxT1Ki9wcZz2zll"  # 5-Minute Crafts Life Hacks
+            {"id": "PL8zglt-LDl-mBl6-QGHjBjhA_E44ZIGBG", "info": "Tasty Recipes"},
+            {"id": "PLSV5lnTn6MhJtvlDAcAxT1Ki9wcZz2zll", "info": "5-Minute Crafts Life Hacks"}
         ]
     },
     "science_and_technology": {
         "zh": "科学与技术",
         "channel": ["@LinusTechTips", "@MarquesBrownlee", "@Veritasium"],
         "playlist": [
-            "PL8mG-RkN2uTYJkPA2M7WRSa9WRDnizXBj",  # Linus Tech Tips Reviews
-            "PL4v31X5uNGWAkC4syZ8PafxkTiU0CyIqT"  # Veritasium Experiments
+            {"id": "PL8mG-RkN2uTYJkPA2M7WRSa9WRDnizXBj", "info": "Linus Tech Tips Reviews"},
+            {"id": "PL4v31X5uNGWAkC4syZ8PafxkTiU0CyIqT", "info": "Veritasium Experiments"}
         ]
     },
     "travel_and_events": {
         "zh": "旅游与活动",
         "channel": ["@NationalGeographic", "@RickSteves", "@FunForLouis"],
         "playlist": [
-            "PLYV1_3WXrf_rBTeDoIRvgzNksxDboI9sk",  # National Geographic Travel
-            "PLZKRTK1ZCM7RgsriUCSHDIzMlD-2Fnp0u"  # Rick Steves Europe
+            {"id": "PLYV1_3WXrf_rBTeDoIRvgzNksxDboI9sk", "info": "National Geographic Travel"},
+            {"id": "PLZKRTK1ZCM7RgsriUCSHDIzMlD-2Fnp0u", "info": "Rick Steves Europe"}
         ]
     },
     "nonprofits_and_activism": {
         "zh": "非营利组织与行动主义",
         "channel": ["@TEDx", "@Greenpeace", "@AmnestyInternational"],
         "playlist": [
-            "PLsRNoUx8w3rPA-y1O7azHKk3ChGpg8kQd",  # TEDx Talks
-            "PLSgJxAAPHCujAroTH-G0NkO6-7QUh0bgL"  # Greenpeace Campaigns
+            {"id": "PLsRNoUx8w3rPA-y1O7azHKk3ChGpg8kQd", "info": "TEDx Talks"},
+            {"id": "PLSgJxAAPHCujAroTH-G0NkO6-7QUh0bgL", "info": "Greenpeace Campaigns"}
         ]
     },
     "autos_and_vehicles": {
         "zh": "汽车与交通工具",
         "channel": ["@TopGear", "@MotorTrend", "@CarAndDriver"],
         "playlist": [
-            "PLz5Tuh8dbwG8xtGSUK0uw8ffpOKsxECKb",  # Top Gear Challenges
-            "PL7p7biFzJbTP69d5f-ExmiQ5b_H25PThj"  # Motor Trend Roadkill
+            {"id": "PLz5Tuh8dbwG8xtGSUK0uw8ffpOKsxECKb", "info": "Top Gear Challenges"},
+            {"id": "PL7p7biFzJbTP69d5f-ExmiQ5b_H25PThj", "info": "Motor Trend Roadkill"}
         ]
     },
     "pets_and_animals": {
         "zh": "宠物与动物",
         "channel": ["@TheDodo", "@AnimalPlanet", "@BraveWilderness"],
         "playlist": [
-            "PL1a2cs_03XasHyP2aR79QrEcA5WLNeaAk",  # The Dodo Best Of
-            "PLOKfP8GGKRvA05Ns_6LTlvT3-vRPbd0YQ"  # Brave Wilderness Encounters
+            {"id": "PL1a2cs_03XasHyP2aR79QrEcA5WLNeaAk", "info": "The Dodo Best Of"},
+            {"id": "PLOKfP8GGKRvA05Ns_6LTlvT3-vRPbd0YQ", "info": "Brave Wilderness Encounters"}
         ]
     }
 }
