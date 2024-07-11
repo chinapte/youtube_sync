@@ -4,9 +4,9 @@
       {
         "id": "@TED",
         "info": "TED: Ideas worth spreading.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
+        "show_summary": true,
+        "show_chapter": true,
+        "show_description": true
       },
       {
         "id": "@kurzgesagt",
