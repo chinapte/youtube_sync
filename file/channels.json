@@ -27,6 +27,7 @@
       {
         "id": "PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa",
         "info": "Educational series.",
+        "channel_id": "@LateNightSeth",
         "show_summary": false,
         "show_chapter": false,
         "show_description": false
@@ -125,43 +126,7 @@
         "show_description": false
       }
     ],
-    "playlists": [
-      {
-        "id": "PLykzf464sU99E4jowuolAKXdUckhfo5DU",
-        "info": "Comedy series 1.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLykzf464sU9-votkzDlaYlfBph5wLhxl8",
-        "info": "Comedy series 2.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLykzf464sU9-uj2DvWN3k3S6k_EPDw9pN",
-        "info": "Comedy series 3.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLykzf464sU9-EpzMHDCFfSpOlR1i_QZYW",
-        "info": "Comedy series 4.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLqq4LnWs3olXOhUOv4O6r-9OdWTQN83se",
-        "info": "Comedy series 5.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      }
-    ]
+    "playlists": []
   },
   "film_and_animation": {
     "channels": [],
@@ -173,29 +138,7 @@
   },
   "science_and_technology": {
     "channels": [],
-    "playlists": [
-      {
-        "id": "PLS3XGZxi7cBXEoxq4lveDcTp0ryIR4dQa",
-        "info": "Science and technology series 1.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLZhRxE9191zMI1fni91k_kCVYyRWSNF-3",
-        "info": "Science and technology series 2.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLZhRxE9191zMhTEG_W0eDJcVviNwSDwjS",
-        "info": "Science and technology series 3.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      }
-    ]
+    "playlists": []
   },
   "travel_and_events": {
     "channels": [],
@@ -211,43 +154,7 @@
         "show_description": false
       }
     ],
-    "playlists": [
-      {
-        "id": "PLQOa26lW-uI8ixlVw1NWu_l4Eh8iZW_qN",
-        "info": "Nonprofits and activism series 1.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLqQNt9DP_BNBpHos3P2WQomL3ClXk6NeX",
-        "info": "Nonprofits and activism series 2.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLqQNt9DP_BNAU8c1KroIe-PAmrhu-7Xcn",
-        "info": "Nonprofits and activism series 3.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLqQNt9DP_BNCyquKa3zrKSDuyxZZ_ZWh8",
-        "info": "Nonprofits and activism series 4.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "PLqQNt9DP_BNBKa8ss5ROk2wLYl9JUdeYS",
-        "info": "Nonprofits and activism series 5.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      }
-    ]
+    "playlists": []
   },
   "autos_and_vehicles": {
     "channels": [],
