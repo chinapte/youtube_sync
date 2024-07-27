@@ -179,12 +179,20 @@
         "show_description": false
       },
       {
+        "id": "@emergencyawesome",
+        "info": "电影电视剧英文带字幕解析",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
         "id": "@user-dm3rg8ls7x",
         "info": "科幻桃小柏",
         "show_summary": false,
         "show_chapter": false,
         "show_description": false
-      }
+      },
+
     ],
     "playlists": [
       {
