@@ -55,6 +55,20 @@
   "news_and_politics": {
     "channels": [
       {
+        "id": "@dwnews",
+        "info": "",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "@aljazeeraenglish",
+        "info": "半岛电视台",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
         "id": "@VICENews",
         "info": "VICE News is a multi-award-winning long-form news content unit within VICE.",
         "show_summary": false,
