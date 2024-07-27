@@ -55,6 +55,13 @@
   "news_and_politics": {
     "channels": [
       {
+        "id": "@VICENews",
+        "info": "VICE News is a multi-award-winning long-form news content unit within VICE.",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
         "id": "@BBCNews",
         "info": "BBC News: Global news coverage.",
         "show_summary": false,
@@ -88,7 +95,7 @@
         "id": "PLQOa26lW-uI8ixlVw1NWu_l4Eh8iZW_qN",
         "info": "ABC NEWS",
         "show_summary": false,
-        "show_chapter": false,
+        "show_chapter": true,
         "show_description": false
       },
       {
