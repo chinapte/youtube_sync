@@ -5,13 +5,6 @@
         "id": "@TED",
         "info": "TED: Ideas worth spreading.",
         "show_summary": true,
-        "show_chapter": true,
-        "show_description": true
-      },
-      {
-        "id": "@kurzgesagt",
-        "info": "Kurzgesagt: In a Nutshell - Animated educational content.",
-        "show_summary": false,
         "show_chapter": false,
         "show_description": false
       },
@@ -23,29 +16,13 @@
         "show_description": false
       }
     ],
-    "playlists": [
-      {
-        "id": "PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa",
-        "info": "Educational series.",
-        "channel_id": "@LateNightSeth",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      }
-    ]
+    "playlists": []
   },
   "entertainment": {
     "channels": [
       {
         "id": "@JimmyKimmelLive",
         "info": "Jimmy Kimmel Live: Late night talk show.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "@TheDailyShow",
-        "info": "The Daily Show: News satire program.",
         "show_summary": false,
         "show_chapter": false,
         "show_description": false
@@ -60,13 +37,6 @@
       {
         "id": "@SaturdayNightLive",
         "info": "Saturday Night Live: Sketch comedy show.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
-        "id": "@fallontonight",
-        "info": "The Tonight Show Starring Jimmy Fallon: Late-night talk show.",
         "show_summary": false,
         "show_chapter": false,
         "show_description": false
@@ -92,21 +62,71 @@
         "show_description": false
       },
       {
-        "id": "@Reuters",
-        "info": "Reuters: Breaking news, analysis, and market data.",
-        "show_summary": false,
-        "show_chapter": false,
-        "show_description": false
-      },
-      {
         "id": "@Vox",
         "info": "Vox: Explanatory journalism.",
         "show_summary": false,
         "show_chapter": false,
         "show_description": false
+      },
+      {
+        "id": "@chaijing2023",
+        "info": "",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "@business",
+        "info": "",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
       }
     ],
-    "playlists": []
+    "playlists": [
+      {
+        "id": "PLQOa26lW-uI8ixlVw1NWu_l4Eh8iZW_qN",
+        "info": "ABC NEWS",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "PLZhRxE9191zMI1fni91k_kCVYyRWSNF-3",
+        "info": "Reuters:china",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "PLZhRxE9191zMhTEG_W0eDJcVviNwSDwjS",
+        "info": "Reuters:US",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "PLqQNt9DP_BNBpHos3P2WQomL3ClXk6NeX",
+        "info": "华盛顿邮报china.us",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "PLqQNt9DP_BNAU8c1KroIe-PAmrhu-7Xcn",
+        "info": "华盛顿邮报 科技",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "PLqQNt9DP_BNBKa8ss5ROk2wLYl9JUdeYS",
+        "info": "华盛顿邮报 经济",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      }
+    ]
   },
   "gaming": {
     "channels": [],
@@ -117,23 +137,54 @@
     "playlists": []
   },
   "comedy": {
+    "channels": [],
+    "playlists": [
+      {
+        "id": "PLiZxWe0ejyv_hCE-YYaG1NtxjlIvQsG7T",
+        "info": "The Late Show with Stephen Colbert",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      }
+    ]
+  },
+  "film_and_animation": {
     "channels": [
       {
-        "id": "@ComedyCentral",
-        "info": "Comedy Central: Comedy videos and sketches.",
+        "id": "@JoBloMovieNetwork",
+        "info": "预告片集合",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      },
+      {
+        "id": "@user-dm3rg8ls7x",
+        "info": "科幻桃小柏",
         "show_summary": false,
         "show_chapter": false,
         "show_description": false
       }
     ],
-    "playlists": []
-  },
-  "film_and_animation": {
-    "channels": [],
-    "playlists": []
+    "playlists": [
+      {
+        "id": "PLSduohp5OGX6fdJansFhmOYSp1Tbj0rHt",
+        "info": "HBO MAX 预告片",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      }
+    ]
   },
   "howto_and_style": {
-    "channels": [],
+    "channels": [
+      {
+        "id": "@零度解说",
+        "info": "",
+        "show_summary": false,
+        "show_chapter": false,
+        "show_description": false
+      }
+    ],
     "playlists": []
   },
   "science_and_technology": {
