@@ -21,27 +21,6 @@
         "show_summary": false,
         "show_chapter": true,
         "show_description": false
-      },
-      {
-        "id": "@bbclearningenglish",
-        "info": "",
-        "show_summary": false,
-        "show_chapter": true,
-        "show_description": false
-      },
-      {
-        "id": "@Englishwithjennifer",
-        "info": "",
-        "show_summary": false,
-        "show_chapter": true,
-        "show_description": false
-      },
-      {
-        "id": "@SpeakEnglishWithVanessa",
-        "info": "",
-        "show_summary": false,
-        "show_chapter": true,
-        "show_description": false
       }
     ],
     "playlists": []
@@ -83,8 +62,29 @@
   "news_and_politics": {
     "channels": [
       {
+        "id": "@dwnews",
+        "info": "",
+        "show_summary": false,
+        "show_chapter": true,
+        "show_description": false
+      },
+      {
+        "id": "@aljazeeraenglish",
+        "info": "半岛电视台",
+        "show_summary": false,
+        "show_chapter": true,
+        "show_description": false
+      },
+      {
         "id": "@VICENews",
         "info": "VICE News is a multi-award-winning long-form news content unit within VICE.",
+        "show_summary": false,
+        "show_chapter": true,
+        "show_description": false
+      },
+      {
+        "id": "@BBCNews",
+        "info": "BBC News: Global news coverage.",
         "show_summary": false,
         "show_chapter": true,
         "show_description": false
@@ -97,8 +97,15 @@
         "show_description": false
       },
       {
+        "id": "@chaijing2023",
+        "info": "",
+        "show_summary": false,
+        "show_chapter": true,
+        "show_description": false
+      },
+      {
         "id": "@business",
-        "info": "Bloomberg Originals",
+        "info": "",
         "show_summary": false,
         "show_chapter": true,
         "show_description": false
@@ -118,6 +125,13 @@
       {
         "id": "PLZhRxE9191zMI1fni91k_kCVYyRWSNF-3",
         "info": "Reuters:china",
+        "show_summary": false,
+        "show_chapter": true,
+        "show_description": false
+      },
+      {
+        "id": "PLZhRxE9191zMhTEG_W0eDJcVviNwSDwjS",
+        "info": "Reuters:US",
         "show_summary": false,
         "show_chapter": true,
         "show_description": false
@@ -224,13 +238,6 @@
       {
         "id": "@TEDx",
         "info": "TEDx: Independently organized TED events.",
-        "show_summary": false,
-        "show_chapter": true,
-        "show_description": false
-      },
-      {
-        "id": "@chaijing2023",
-        "info": "",
         "show_summary": false,
         "show_chapter": true,
         "show_description": false
