@@ -42,6 +42,13 @@
         "show_summary": false,
         "show_chapter": true,
         "show_description": false
+      },
+      {
+        "id": "@ariannitalagringa",
+        "info": "Native English Teacher",
+        "show_summary": false,
+        "show_chapter": true,
+        "show_description": false
       }
     ],
     "playlists": []
